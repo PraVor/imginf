@@ -1,5 +1,5 @@
 # ImageInfo
-Utility for extracting metadata from image files
+Linux utility for extracting metadata from image files
 
 
 # How to use
