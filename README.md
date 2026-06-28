@@ -1,6 +1,6 @@
 # ImageInfo
-Linux utility for extracting metadata from image files
-(you can also use wsl)
+Linux utility for extracting metadata from image files (you can also use wsl)
+
 
 
 # How to build
